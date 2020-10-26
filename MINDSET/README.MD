@@ -4,7 +4,7 @@
 ### O círculo crescente de repetições.
 <p align="justify">Aplicar, o que considero, uma abstração esplêndida e inspiradora que estimula um ímpeto de estudos baseado numa concepção mental de progresso mecânico em uma linha de produção automatizada, a desmembrar um grande processo complexo em pequenas etapas, que orquestram um grande espetáculo de desenvolvimento de criação. Neste caso, aptidões específicas à cerca do objeto de estudo.</p>
   
-![figura1](https://raw.githubusercontent.com/riquifer/Protocol/master/MINDSET/ASSETS/IMGS/figura1.png)
+<p align="center"> ![figura1](https://raw.githubusercontent.com/riquifer/Protocol/master/MINDSET/ASSETS/IMGS/figura1.png) </p>
 
 <p align="justify">Nas repetições que se seguem, adiciona-se novos itens às tarefas, o que tornará o resultado final cada vez mais completo, abrindo novos caminhos e possibilidades. Importante seguir a evolução das etapas combinando novos processos com processos anteriores, nunca descartando repetições feitas anteriormente, sempre transformando e criando novas combinações, na medida do possível:</p>
 
