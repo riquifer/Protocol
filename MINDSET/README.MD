@@ -1,7 +1,9 @@
 # Introdução
 ## Metodologias de estudos.
 <p align="justify">Este documento visa registrar anotações gerais e reflexões a respeito de metodologias de estudo aplicado na linguagem de programação em C.</p>
+
 ### O círculo crescente de repetições.
+
 <p align="justify">Aplicar, o que considero, uma abstração esplêndida e inspiradora que estimula um ímpeto de estudos baseado numa concepção mental de progresso mecânico em uma linha de produção automatizada, a desmembrar um grande processo complexo em pequenas etapas, que orquestram um grande espetáculo de desenvolvimento de criação. Neste caso, aptidões específicas à cerca do objeto de estudo.</p>
   
 <p align="center"> <img src="https://raw.githubusercontent.com/riquifer/Protocol/master/MINDSET/ASSETS/IMGS/figura1.png"> </p>
