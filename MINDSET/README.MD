@@ -1,4 +1,4 @@
-# Introdução
+<p align="justify"># Introdução
 ## Metodologias de estudos.
 Este documento visa registrar anotações gerais e reflexões a respeito de metodologias de estudo aplicado na linguagem de programação em C.
 ### O círculo crescente de repetições.
@@ -10,3 +10,4 @@ Nas repetições que se seguem, adiciona-se novos itens às tarefas, o que torna
 ![figura2](https://raw.githubusercontent.com/riquifer/Protocol/master/MINDSET/ASSETS/IMGS/figura2.png)
 
 Na figura 2, acima, é possível observar um novo ciclo de tarefas mais geral (criar um programa que calcula e retorna a fatorial de um número) combinado com o ciclo da tarefa anterior, mais simplista. Semanticamente, é concebível concluir que está implícito na descrição da segunda tarefa o uso do conceito do primeiro ciclo. Neste caso seria redundante mapear que seria ideal o uso do recurso print dentro do programa de cálculo de fatorial, mas nos casos de propostas de tarefas mais complexas isso não seria tão óbvio, então, é importante seguir com disciplina metódica tal sistemática.
+</p>
