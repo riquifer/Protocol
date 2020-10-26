@@ -10,6 +10,6 @@
 
 <p align="justify">Nas repetições que se seguem, adiciona-se novos itens às tarefas, o que tornará o resultado final cada vez mais completo, abrindo novos caminhos e possibilidades. Importante seguir a evolução das etapas combinando novos processos com processos anteriores, nunca descartando repetições feitas anteriormente, sempre transformando e criando novas combinações, na medida do possível:</p>
 
-![figura2](https://raw.githubusercontent.com/riquifer/Protocol/master/MINDSET/ASSETS/IMGS/figura2.png)
+<p aling="center"> <img src="https://raw.githubusercontent.com/riquifer/Protocol/master/MINDSET/ASSETS/IMGS/figura2.png"> </p>
 
 <p align="justify">Na figura 2, acima, é possível observar um novo ciclo de tarefas mais geral (criar um programa que calcula e retorna a fatorial de um número) combinado com o ciclo da tarefa anterior, mais simplista. Semanticamente, é concebível concluir que está implícito na descrição da segunda tarefa o uso do conceito do primeiro ciclo. Neste caso seria redundante mapear que seria ideal o uso do recurso print dentro do programa de cálculo de fatorial, mas nos casos de propostas de tarefas mais complexas isso não seria tão óbvio, então, é importante seguir com disciplina metódica tal sistemática.</p>
